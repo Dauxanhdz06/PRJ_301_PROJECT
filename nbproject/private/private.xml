@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/githup/PRJ_301_PROJECT/web/Hoang_SignUp.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/githup/PRJ_301_PROJECT/web/Hoang_SignIn.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/githup/PRJ_301_PROJECT/src/java/controller/SignUp.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/githup/PRJ_301_PROJECT/src/java/model/User.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/githup/PRJ_301_PROJECT/src/java/model/UserDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/githup/PRJ_301_PROJECT/src/java/controller/SignIn.java</file>
+        </group>
     </open-files>
 </project-private>
